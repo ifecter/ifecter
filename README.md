@@ -1,6 +1,6 @@
 <em>Oi, eu sou o iFecter 👋</em>
 <br/>
-<img align="right" src="https://media3.giphy.com/media/2LVRBJsBvLE6vUnGsQ/giphy.gif"/>
+<img align="right" src="https://media.discordapp.net/attachments/834521177095405598/835146434659090463/Sem_Titulo-1.png"/>
 
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
