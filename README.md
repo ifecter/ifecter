@@ -1,4 +1,4 @@
-<em>Oi, eu sou o iFecter 👋</em>
+<em>Hi I'm iFecter 👋</em>
 <br/>
 <img align="right" src="https://media.discordapp.net/attachments/834521177095405598/835146434659090463/Sem_Titulo-1.png"/>
 
@@ -13,7 +13,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Acesse :heart:</h3> 
+  <h3 align="center">Access :heart:</h3> 
 </div>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCPwyIgCwxeTPre_fx8g3zdg" target="blank">
